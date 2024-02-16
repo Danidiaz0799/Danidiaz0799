@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://aristi.dev">Steven Diaz</a> 👋</h1>
 </div>
-<img src="https://img.freepik.com/foto-gratis/nave-espacial-orbita-galaxia-oscura-cometa-azul-brillante-generado-ia_188544-9662.jpg">
+<a href="https://www.google.com/" target="_blank"><img src="https://img.freepik.com/foto-gratis/nave-espacial-orbita-galaxia-oscura-cometa-azul-brillante-generado-ia_188544-9662.jpg" alt="Home"></a>
 
 ## About me
 -  Software developer.
