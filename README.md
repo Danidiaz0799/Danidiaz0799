@@ -5,9 +5,9 @@
 
 ## About me
 -  Software developer.
+-  Portfolio [StevPortfolio](https://www.google.com/)
 -  Electronic Technologist.
 -  More than 5 years of experience in web application development.
--  Portfolio [StevPortfolio](https://www.google.com/)
 <br>
 
 
