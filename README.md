@@ -1,116 +1,74 @@
-<div align="center">
-  
-# 👋 ¡Hola! Soy Steven Diaz  
+# Steven Diaz
 
-### 🚀 Full Stack Developer | Angular & .NET | Azure Cloud  
+## Full Stack Developer | Angular & .NET | Cloud & Scalable Solutions  
 
-💻 Apasionado por construir soluciones tecnológicas que marcan la diferencia.  
-
-</div>
+**Ubicación:** Bogotá, Colombia  
+**Correo:** [Danidiaz0799@gmail.com](mailto:Danidiaz0799@gmail.com)  
+**LinkedIn:** [linkedin.com/in/steven-diaz-salamanca-7b45b8241](https://www.linkedin.com/in/steven-diaz-salamanca-7b45b8241/)  
+**GitHub:** [github.com/Danidiaz0799](https://github.com/Danidiaz0799)  
 
 ---
 
-## 🌟 Sobre mí  
+## 📌 Sobre Mí  
 
-Soy un **desarrollador de software** con más de **5 años de experiencia** en la creación de aplicaciones web modernas, escalables y de alto rendimiento.  
-Me especializo en **Angular y .NET**, desarrollando interfaces intuitivas y arquitecturas backend eficientes.  
+Desarrollador Fullstack con más de **5 años de experiencia** en el diseño, desarrollo e implementación de aplicaciones web modernas, escalables y de alto rendimiento. Especializado en **Angular y .NET**, con un fuerte enfoque en **arquitectura limpia, buenas prácticas de desarrollo y metodologías ágiles** como Scrum y Kanban.  
 
-Me motiva transformar ideas en productos funcionales y optimizados, aplicando **buenas prácticas, arquitectura limpia y metodologías ágiles**.  
-Creo en el **trabajo en equipo**, el aprendizaje continuo y la tecnología como herramienta para mejorar el mundo.  
-
-📍 **Ubicación:** Bogotá, Colombia.  
-🎯 **Siempre abierto a aprender nuevas tecnologías para mantenerme a la vanguardia del desarrollo.**  
-
-## 🚀 ¿Por qué trabajar conmigo?  
-
-✅ **Desarrollo Full Stack:** Angular y .NET son mi zona de confort. Construyo aplicaciones web robustas, escalables y bien estructuradas.  
-✅ **Experiencia en Cloud:** Conocimiento práctico en **Azure**, integrando soluciones en la nube de forma segura y eficiente.  
-✅ **Mentalidad de optimización:** Me enfoco en **rendimiento, usabilidad y escalabilidad** para entregar productos que realmente aporten valor.  
-✅ **Trabajo en equipo y liderazgo:** Experiencia colaborando con equipos y mejorando procesos de desarrollo.  
+Me apasiona la optimización de código, la escalabilidad de aplicaciones y el desarrollo de soluciones digitales innovadoras que aporten valor a los negocios y mejoren la experiencia del usuario.  
 
 ---
 
 ## 💼 Experiencia Profesional  
 
-### 🔹 **Frontend Lead | Amaris (Proyecto Telefónica - SpeedyTools)**  
-📆 **2024 - Actualidad**  
-💡 **Liderando la modernización de aplicaciones empresariales con Angular y .NET.**  
-- **Migración y optimización** de **SpeedyTools Cloud v1**, unificando tres plataformas en una.  
-- Creación de **componentes reutilizables** para acelerar el desarrollo y mejorar la mantenibilidad.  
-- Optimización del rendimiento, **reduciendo tiempos de carga y mejorando la UX/UI**.  
+### **Amaris Consulting | Experienced Consultant**  
+📍 Bogotá, Colombia | 📅 Dic. 2024 - Actualidad  
+- Liderazgo en la migración y optimización de **SpeedyTools Cloud v1**, consolidando tres plataformas empresariales en una solución basada en **Angular y .NET**.  
+- Implementación de **componentes reutilizables y arquitectura modular** en Angular para mejorar la escalabilidad del sistema.  
+- Desarrollo de servicios **REST API con .NET** para garantizar seguridad y rendimiento.  
+- Aplicación de pruebas unitarias y CI/CD para mejorar la calidad del software.  
 
-### 🔹 **Desarrollador Full Stack | Amaris (Proyecto Telefónica - NABIS)**  
-📆 **2023 - 2024**  
-💡 **Construyendo herramientas empresariales escalables y seguras.**  
-- Desarrollo y mantenimiento de sistemas con **Angular y .NET Core**.  
-- Implementación de **automatización de despliegues con Azure DevOps**.  
-- Aplicación de **pruebas unitarias** para garantizar calidad y estabilidad del software.  
+### **Amaris Consulting | Consultant**  
+📍 Remoto | 📅 Nov. 2023 - Dic. 2024  
+- Desarrollo y mantenimiento de funcionalidades en un ecosistema basado en **Angular y .NET**.  
+- Creación de **componentes modulares** para mejorar la experiencia de usuario y la reutilización de código.  
+- Aplicación de principios **SOLID y Clean Architecture** en soluciones escalables.  
+- Coordinación con equipos de desarrollo en metodologías ágiles **Scrum y Kanban**.  
 
-### 🔹 **Desarrollador Backend | Inchcape**  
-📆 **2022 - 2023**  
-💡 **Optimización y desarrollo de APIs y servicios backend para BookingSystem.**  
-- Creación y optimización de **endpoints y APIs** con **.NET y C#**.  
-- Mejora en **consultas SQL**, optimizando tiempos de respuesta y consumo de recursos.  
-- Integración con sistemas empresariales y automatización de procesos de negocio.  
-
----
-
-## 🏆 Proyectos Destacados  
-
-### **📌 SpeedyTools Cloud (Telefónica - Amaris)**  
-🛠 **Angular, .NET Core, Azure, SQL Server**  
-✅ Aplicación empresarial para gestión de herramientas y activos en Telefónica.  
-✅ **Rediseño de interfaz** para mejorar usabilidad y accesibilidad.  
-✅ Optimización del rendimiento en consultas y carga de datos.  
-
-### **📌 NABIS (Telefónica - Amaris)**  
-🛠 **Angular, .NET Core, Azure DevOps, SQL Server**  
-✅ Plataforma de gestión para servicios empresariales en Telefónica.  
-✅ Implementación de **CI/CD con Azure DevOps**.  
-✅ Desarrollo de módulos completos en **Angular y .NET**.  
-
-### **📌 BookingSystem (Inchcape)**  
-🛠 **.NET Core, C#, SQL Server, API REST**  
-✅ Desarrollo y optimización de **servicios y endpoints backend**.  
-✅ Refactorización de consultas SQL para mejorar eficiencia y escalabilidad.  
-✅ Integración con plataformas empresariales para gestión de reservas.  
-
-### **📌 Sistema de Monitoreo IoT para Cultivo de Setas**  
-🛠 **Angular, .NET, Azure, SQL Server, MQTT, Python**  
-🔧 **Hardware:** ESP32, Raspberry Pi, DHT11, Relés.  
-✅ Plataforma de monitoreo en tiempo real para control ambiental.  
-✅ Integración con **sensores de temperatura y humedad (DHT11)**.  
-✅ Control automático de ventiladores, luces y humidificadores mediante **ESP32 y Raspberry Pi**.  
-✅ Almacenamiento y procesamiento de datos en **Azure y SQL Server**.  
+### **Inchcape Digital | Backend Developer**  
+📍 Bogotá, Colombia | 📅 Abr. 2022 - Nov. 2023  
+- Desarrollo y optimización de servicios backend en **ASP.NET Core y LINQ**.  
+- Implementación de **arquitecturas escalables y microservicios** para mejorar el rendimiento del sistema.  
+- Mantenimiento y optimización de bases de datos en **SQL Server**.  
+- Integración con APIs de terceros y mejora en el rendimiento de consultas.  
 
 ---
 
-## 🔥 Habilidades Técnicas  
+## 🛠️ Habilidades Técnicas  
 
-🟢 **Frontend:** Angular, TypeScript, RxJS, TailwindCSS, Bootstrap.  
-🟠 **Backend:** .NET Core, C#, Entity Framework, API REST.  
-🔵 **Bases de Datos:** SQL Server, PostgreSQL.  
-☁️ **Cloud & DevOps:** Azure Functions, Azure DevOps, CI/CD, Docker.  
-📱 **IoT & Hardware:** ESP32, Raspberry Pi, MQTT, Python.  
-
----
-
-## 🎯 Objetivos y Visión  
-
-📌 **Seguir especializándome en Angular y .NET** para construir software de alto impacto.  
-📌 **Ampliar mis conocimientos en arquitecturas cloud con Azure.**  
-📌 **Explorar más sobre IoT y su integración con aplicaciones web.**  
-📌 **Convertirme en líder técnico y referente en mi campo.**  
+- **Frontend:** Angular, TypeScript, JavaScript, React, Tailwind CSS.  
+- **Backend:** .NET Core, C#, Node.js, NestJS, Express.js, Spring Boot.  
+- **Bases de Datos:** SQL Server, MySQL, MongoDB.  
+- **DevOps & Herramientas:** Git, GitHub, CI/CD, Docker, Kubernetes, Azure.  
+- **Metodologías:** Scrum, Kanban, Clean Architecture, SOLID.  
+- **Otros:** REST APIs, GraphQL, Microservicios, Seguridad en Aplicaciones Web.  
 
 ---
 
-## 📬 ¿Hablamos?  
+## 🎓 Educación  
 
-📧 **Email:** [danidiaz0799@gmail.com](mailto:danidiaz0799@gmail.com)  
-🔗 **LinkedIn:** [Steven Diaz](https://www.linkedin.com/in/steven-diaz-salamanca-7b45b8241)  
+### **Universidad Distrital Francisco José de Caldas**  
+📅 Ene. 2020 - Dic. 2024 | **Tecnología en Electrónica Industrial**  
+- Desarrollo de software en **C++, Java y Python**.  
+- Experiencia con **STM32CubeIDE, Linux y Raspberry Pi**.  
 
-🚀 **¡Siempre abierto a nuevas oportunidades y retos emocionantes!**  
+### **Universidad Nacional de Colombia (UNAL)**  
+📅 May. 2024 - Sept. 2024 | **Diplomado en Desarrollo de Aplicaciones Móviles**  
+- Diseño y desarrollo de aplicaciones para Android e iOS.  
+- Uso de frameworks híbridos y nativos.  
 
 ---
 
-⭐ **"El código no es solo líneas de texto, es la forma en que construimos el futuro."**  
+## 📫 Contacto  
+
+Si te interesa colaborar en proyectos o conversar sobre tecnología, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/steven-diaz-salamanca-7b45b8241/) o [GitHub](https://github.com/Danidiaz0799).  
+
+¡Gracias por visitar mi perfil!  
