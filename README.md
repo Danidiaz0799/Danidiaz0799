@@ -11,9 +11,7 @@
 
 ## 📌 Sobre Mí  
 
-Desarrollador Fullstack con más de **5 años de experiencia** en el diseño, desarrollo e implementación de aplicaciones web modernas, escalables y de alto rendimiento. Especializado en **Angular y .NET**, con un fuerte enfoque en **arquitectura limpia, buenas prácticas de desarrollo y metodologías ágiles** como Scrum y Kanban.  
-
-Me apasiona la optimización de código, la escalabilidad de aplicaciones y el desarrollo de soluciones digitales innovadoras que aporten valor a los negocios y mejoren la experiencia del usuario.  
+Desarrollador Fullstack con más de 5 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web modernas, escalables y de alto rendimiento. Especializado en Angular y .NET, con un enfoque en la arquitectura limpia, buenas prácticas de desarrollo y metodologías ágiles (Scrum, Kanban). Apasionado por la optimización de código, el desarrollo eficiente y la creación de soluciones digitales innovadoras que mejoren la experiencia del usuario y la eficiencia de los negocios. 
 
 ---
 
