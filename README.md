@@ -1,72 +1,63 @@
-# Steven Diaz
+## Full Stack Developer | Angular & .NET | Python
 
-## Full Stack Developer | Angular & .NET | Cloud & Scalable Solutions  
-
-**Ubicación:** Bogotá, Colombia  
-**Correo:** [Danidiaz0799@gmail.com](mailto:Danidiaz0799@gmail.com)  
-**LinkedIn:** [linkedin.com/in/steven-diaz-salamanca-7b45b8241](https://www.linkedin.com/in/steven-diaz-salamanca-7b45b8241/)  
-**GitHub:** [github.com/Danidiaz0799](https://github.com/Danidiaz0799)  
+Desarrollador Full Stack con más de 5 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web escalables y de alto rendimiento. Especializado en **Angular y .NET**, con un enfoque en arquitectura limpia, buenas prácticas de desarrollo y metodologías ágiles (**Scrum, Kanban**). Me apasiona la optimización de código, el desarrollo eficiente y la creación de soluciones digitales innovadoras.
 
 ---
 
-## 📌 Sobre Mí  
+##  Ubicación y Contacto
 
-Desarrollador Fullstack con más de 5 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web modernas, escalables y de alto rendimiento. Especializado en Angular y .NET, con un enfoque en la arquitectura limpia, buenas prácticas de desarrollo y metodologías ágiles (Scrum, Kanban). Apasionado por la optimización de código, el desarrollo eficiente y la creación de soluciones digitales innovadoras que mejoren la experiencia del usuario y la eficiencia de los negocios. 
-
----
-
-## 💼 Experiencia Profesional  
-
-### **Amaris Consulting | Experienced Consultant**  
-📍 Bogotá, Colombia | 📅 Dic. 2024 - Actualidad  
-- Liderazgo en la migración y optimización de **SpeedyTools Cloud v1**, consolidando tres plataformas empresariales en una solución basada en **Angular y .NET**.  
-- Implementación de **componentes reutilizables y arquitectura modular** en Angular para mejorar la escalabilidad del sistema.  
-- Desarrollo de servicios **REST API con .NET** para garantizar seguridad y rendimiento.  
-- Aplicación de pruebas unitarias y CI/CD para mejorar la calidad del software.  
-
-### **Amaris Consulting | Consultant**  
-📍 Remoto | 📅 Nov. 2023 - Dic. 2024  
-- Desarrollo y mantenimiento de funcionalidades en un ecosistema basado en **Angular y .NET**.  
-- Creación de **componentes modulares** para mejorar la experiencia de usuario y la reutilización de código.  
-- Aplicación de principios **SOLID y Clean Architecture** en soluciones escalables.  
-- Coordinación con equipos de desarrollo en metodologías ágiles **Scrum y Kanban**.  
-
-### **Inchcape Digital | Backend Developer**  
-📍 Bogotá, Colombia | 📅 Abr. 2022 - Nov. 2023  
-- Desarrollo y optimización de servicios backend en **ASP.NET Core y LINQ**.  
-- Implementación de **arquitecturas escalables y microservicios** para mejorar el rendimiento del sistema.  
-- Mantenimiento y optimización de bases de datos en **SQL Server**.  
-- Integración con APIs de terceros y mejora en el rendimiento de consultas.  
+- Bogotá, Colombia  
+- [Danidiaz0799@gmail.com](mailto:Danidiaz0799@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/steven-diaz-salamanca-7b45b8241/)  
+- [GitHub](https://github.com/Danidiaz0799)  
+- (+57) 3215460960  
 
 ---
 
-## 🛠️ Habilidades Técnicas  
+##  Tech Stack
 
-- **Frontend:** Angular, TypeScript, JavaScript, React, Tailwind CSS.  
-- **Backend:** .NET Core, C#, Node.js, NestJS, Express.js, Spring Boot.  
-- **Bases de Datos:** SQL Server, MySQL, MongoDB.  
-- **DevOps & Herramientas:** Git, GitHub, CI/CD, Docker, Kubernetes, Azure.  
-- **Metodologías:** Scrum, Kanban, Clean Architecture, SOLID.  
-- **Otros:** REST APIs, GraphQL, Microservicios, Seguridad en Aplicaciones Web.  
+### **Frontend**  
+- Angular, TypeScript, JavaScript, React, Vue.js, Tailwind CSS  
 
----
+### **Backend**  
+- .NET Core, C#, Node.js, NestJS, Express.js, Spring Boot, Python  
 
-## 🎓 Educación  
+### **Bases de Datos**  
+- SQL Server, MySQL, MongoDB, PostgreSQL  
 
-### **Universidad Distrital Francisco José de Caldas**  
-📅 Ene. 2020 - Dic. 2024 | **Tecnología en Electrónica Industrial**  
-- Desarrollo de software en **C++, Java y Python**.  
-- Experiencia con **STM32CubeIDE, Linux y Raspberry Pi**.  
+### **DevOps & Cloud**  
+- Azure, CI/CD, Git, GitHub, Docker, Kubernetes  
 
-### **Universidad Nacional de Colombia (UNAL)**  
-📅 May. 2024 - Sept. 2024 | **Diplomado en Desarrollo de Aplicaciones Móviles**  
-- Diseño y desarrollo de aplicaciones para Android e iOS.  
-- Uso de frameworks híbridos y nativos.  
+### **Otros**  
+- REST APIs, GraphQL, Microservicios, Seguridad en Aplicaciones Web  
+
+### **Metodologías y Arquitectura**  
+- Scrum, Kanban, Clean Architecture, SOLID  
 
 ---
 
-## 📫 Contacto  
+##  Proyectos Destacados
 
-Si te interesa colaborar en proyectos o conversar sobre tecnología, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/steven-diaz-salamanca-7b45b8241/) o [GitHub](https://github.com/Danidiaz0799).  
+### **SpeedyTools Cloud (Amaris Consulting - Telefónica)**  
+🔹 Migración y optimización de una plataforma empresarial consolidando tres soluciones en **Angular + .NET**.  
+🔹 Desarrollo de una arquitectura modular con componentes reutilizables.  
+🔹 Implementación de mejoras en UX/UI y optimización del rendimiento.  
+🔹 Creación de servicios **REST API** con .NET para garantizar seguridad y escalabilidad.  
 
-¡Gracias por visitar mi perfil!  
+### **NABIS (Amaris Consulting - Telefónica)**  
+🔹 Desarrollo y mantenimiento de soluciones empresariales en **Angular y .NET Core**.  
+🔹 Implementación de **CI/CD en Azure DevOps** para automatización de despliegues.  
+🔹 Aplicación de principios **SOLID y Clean Architecture**.  
+🔹 Creación de componentes reutilizables para mejorar la mantenibilidad del código.  
+
+### **BookingSystem (Inchcape Digital)**  
+🔹 Desarrollo de servicios backend en **.NET Core y C#**.  
+🔹 Implementación de **arquitecturas escalables y microservicios**.  
+🔹 Integración de APIs de terceros y optimización de consultas SQL.  
+
+### **Sistema de Monitoreo IoT para Cultivo de Setas**  
+🔹 Desarrollo de una plataforma de monitoreo en tiempo real con **Angular, .NET y Azure**.  
+🔹 Integración con sensores de temperatura y humedad mediante **ESP32 y Raspberry Pi**.  
+🔹 Uso de **MQTT y Python** para la comunicación entre dispositivos IoT.  
+
+---
