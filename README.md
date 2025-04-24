@@ -1,63 +1,34 @@
-## Full Stack Developer | Angular & .NET | Python
+### **Steven Díaz Salamanca | Desarrollador Full-Stack: Creando Soluciones Digitales Eficaces**
 
-Desarrollador Full Stack con más de 5 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web escalables y de alto rendimiento. Especializado en **Angular y .NET**, con un enfoque en arquitectura limpia, buenas prácticas de desarrollo y metodologías ágiles (**Scrum, Kanban**). Me apasiona la optimización de código, el desarrollo eficiente y la creación de soluciones digitales innovadoras.
+Con una base en tecnología electrónica y más de 5 años enfocado en el desarrollo de software, me especializo en **transformar requerimientos complejos en soluciones digitales robustas y escalables**. Mi pasión es construir aplicaciones que funcionen de manera impecable, utilizando principalmente **.NET (C#) y Python** para el backend y **SQL** para una gestión de datos optimizada.
 
----
-
-##  Ubicación y Contacto
-
-- Bogotá, Colombia  
-- [Danidiaz0799@gmail.com](mailto:Danidiaz0799@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/steven-diaz-salamanca-7b45b8241/)  
-- [GitHub](https://github.com/Danidiaz0799)  
-- (+57) 3215460960  
+📍 Bogotá, Colombia
 
 ---
 
-##  Tech Stack
+#### **Mi Enfoque: Construcción de Soluciones Sólidas**
 
-### **Frontend**  
-- Angular, TypeScript, JavaScript, React, Vue.js, Tailwind CSS  
-
-### **Backend**  
-- .NET Core, C#, Node.js, NestJS, Express.js, Spring Boot, Python  
-
-### **Bases de Datos**  
-- SQL Server, MySQL, MongoDB, PostgreSQL  
-
-### **DevOps & Cloud**  
-- Azure, CI/CD, Git, GitHub, Docker, Kubernetes  
-
-### **Otros**  
-- REST APIs, GraphQL, Microservicios, Seguridad en Aplicaciones Web  
-
-### **Metodologías y Arquitectura**  
-- Scrum, Kanban, Clean Architecture, SOLID  
+* **Backend Potente y Escalable:** Diseño e implemento la lógica central de las aplicaciones y APIs seguras usando **.NET y Python**, aplicando principios como **Clean Architecture** para asegurar calidad y mantenibilidad a largo plazo.
+* **Datos Precisos y Accesibles:** Estructuro y optimizo bases de datos **SQL (SQL Server, PostgreSQL, MySQL)** para garantizar que la información crítica sea confiable y se acceda rápidamente.
+* **Experiencias Completas:** Cuando se requiere, conecto el backend con interfaces de usuario funcionales (experiencia con **Angular**) para entregar soluciones full-stack cohesivas.
+* **Entrega Eficiente:** Adopto prácticas modernas como **CI/CD, Docker y Git** para un ciclo de desarrollo ágil y fiable.
 
 ---
 
-##  Proyectos Destacados
+#### **Soluciones en Acción (Ejemplos Clave):**
 
-### **SpeedyTools Cloud (Amaris Consulting - Telefónica)**  
-🔹 Migración y optimización de una plataforma empresarial consolidando tres soluciones en **Angular + .NET**.  
-🔹 Desarrollo de una arquitectura modular con componentes reutilizables.  
-🔹 Implementación de mejoras en UX/UI y optimización del rendimiento.  
-🔹 Creación de servicios **REST API** con .NET para garantizar seguridad y escalabilidad.  
-
-### **NABIS (Amaris Consulting - Telefónica)**  
-🔹 Desarrollo y mantenimiento de soluciones empresariales en **Angular y .NET Core**.  
-🔹 Implementación de **CI/CD en Azure DevOps** para automatización de despliegues.  
-🔹 Aplicación de principios **SOLID y Clean Architecture**.  
-🔹 Creación de componentes reutilizables para mejorar la mantenibilidad del código.  
-
-### **BookingSystem (Inchcape Digital)**  
-🔹 Desarrollo de servicios backend en **.NET Core y C#**.  
-🔹 Implementación de **arquitecturas escalables y microservicios**.  
-🔹 Integración de APIs de terceros y optimización de consultas SQL.  
-
-### **Sistema de Monitoreo IoT para Cultivo de Setas**  
-🔹 Desarrollo de una plataforma de monitoreo en tiempo real con **Angular, .NET y Azure**.  
-🔹 Integración con sensores de temperatura y humedad mediante **ESP32 y Raspberry Pi**.  
-🔹 Uso de **MQTT y Python** para la comunicación entre dispositivos IoT.  
+* **Unificación de Plataformas:** Consolidé múltiples sistemas legados en una solución única y eficiente, utilizando un backend en **.NET** y optimizando la base de datos **SQL**.
+* **Componentes Empresariales Reutilizables:** Desarrollé módulos backend mantenibles con **.NET (Clean Arch)** sobre **SQL**, facilitados por **CI/CD**.
+* **Sistema Transaccional Escalable:** Creé una arquitectura de **microservicios .NET** con **SQL** optimizado para manejar altos volúmenes de operaciones.
+* **Procesamiento y Acceso a Datos:** Implementé pipelines y APIs (con **Python/.NET**) para procesar información y almacenarla en **SQL**, facilitando su consulta y visualización.
 
 ---
+
+#### **¿Construimos Algo Juntos?**
+
+Si buscas desarrollar una solución de software eficaz y bien diseñada, hablemos.
+
+* **Email:** [Danidiaz0799@gmail.com](mailto:Danidiaz0799@gmail.com)
+* **LinkedIn:** [Perfil Profesional](https://www.linkedin.com/in/steven-diaz-salamanca-7b45b8241/)
+* **GitHub:** [Repositorios](https://github.com/Danidiaz0799)
+
