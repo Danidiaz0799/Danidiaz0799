@@ -1,32 +1,32 @@
-### **Steven Díaz Salamanca | Desarrollador Full-Stack: Creando Soluciones Digitales Eficaces**
+### **Steven Díaz Salamanca | Ingeniero de Software | Experto en Soluciones .NET, Python y Angular**
 
-Con una base en tecnología electrónica y más de 5 años enfocado en el desarrollo de software, me especializo en **transformar requerimientos complejos en soluciones digitales robustas y escalables**. Mi pasión es construir aplicaciones que funcionen de manera impecable, utilizando principalmente **.NET (C#) y Python** para el backend y **SQL** para una gestión de datos optimizada.
+Con formación en Electrónica Industrial y como Desarrollador de Software, me dedico a diseñar y construir **soluciones robustas y eficientes**, con un enfoque principal en el desarrollo backend con **.NET (C#) y Python**, y frontend con **Angular**. He tenido la oportunidad de desarrollar aplicaciones para clientes en sectores clave como **telecomunicaciones, seguros y automotriz**. Mi objetivo es traducir requerimientos complejos en sistemas efectivos, combinando backends potentes con interfaces de usuario interactivas y de alto rendimiento.
 
 📍 Bogotá, Colombia
 
 ---
 
-#### **Mi Enfoque: Construcción de Soluciones Sólidas**
+#### **Enfoque Técnico:**
 
-* **Backend Potente y Escalable:** Diseño e implemento la lógica central de las aplicaciones y APIs seguras usando **.NET y Python**, aplicando principios como **Clean Architecture** para asegurar calidad y mantenibilidad a largo plazo.
-* **Datos Precisos y Accesibles:** Estructuro y optimizo bases de datos **SQL (SQL Server, PostgreSQL, MySQL)** para garantizar que la información crítica sea confiable y se acceda rápidamente.
-* **Experiencias Completas:** Cuando se requiere, conecto el backend con interfaces de usuario funcionales (experiencia con **Angular**) para entregar soluciones full-stack cohesivas.
-* **Entrega Eficiente:** Adopto prácticas modernas como **CI/CD, Docker y Git** para un ciclo de desarrollo ágil y fiable.
-
----
-
-#### **Soluciones en Acción (Ejemplos Clave):**
-
-* **Unificación de Plataformas:** Consolidé múltiples sistemas legados en una solución única y eficiente, utilizando un backend en **.NET** y optimizando la base de datos **SQL**.
-* **Componentes Empresariales Reutilizables:** Desarrollé módulos backend mantenibles con **.NET (Clean Arch)** sobre **SQL**, facilitados por **CI/CD**.
-* **Sistema Transaccional Escalable:** Creé una arquitectura de **microservicios .NET** con **SQL** optimizado para manejar altos volúmenes de operaciones.
-* **Procesamiento y Acceso a Datos:** Implementé pipelines y APIs (con **Python/.NET**) para procesar información y almacenarla en **SQL**, facilitando su consulta y visualización.
+* **Frontend Avanzado (Angular):** Desarrollo de SPAs complejas con **Angular & TypeScript**, aplicando gestión de estado reactiva (RxJS/NgRx), componentización modular y optimización de rendimiento.
+* **Ingeniería Backend (.NET & Python):** Construcción de **APIs RESTful y microservicios** robustos con **.NET (ASP.NET Core, C#)** y **Python**, siguiendo principios **Clean Architecture y SOLID**.
+* **Optimización de Datos (SQL):** Diseño experto de esquemas y **optimización profunda de consultas** (indexación, T-SQL) en **SQL Server y MySQL** para máximo rendimiento.
+* **Prácticas Modernas:** Implementación de **pipelines CI/CD**, control de versiones con **Git** y foco en la calidad mediante pruebas unitarias y de integración.
 
 ---
 
-#### **¿Construimos Algo Juntos?**
+#### **Experiencia Destacada en Soluciones:**
 
-Si buscas desarrollar una solución de software eficaz y bien diseñada, hablemos.
+* **Modernización Frontend (Telecomunicaciones):** Lideré el desarrollo **frontend con Angular** para modernizar sistemas críticos de un gigante de las telecomunicaciones, mejorando la UX significativamente. Contribuí al **backend .NET (ASP.NET Core)** desarrollando APIs y optimizando consultas en **SQL Server**.
+* **Servicios Backend Críticos (Seguros):** Desarrollé **servicios .NET Core** para procesos clave (gestión de clientes, transacciones) en el sector asegurador. Implementé lógica de negocio e interacciones con **SQL Server/MySQL** (EF Core, T-SQL optimizado).
+* **Plataformas de Alta Demanda (Automotriz):** Contribuí a **microservicios .NET (ASP.NET Core)** para plataformas de venta y postventa de marcas líderes del sector automotriz, implementando APIs RESTful y optimizando consultas complejas en **SQL Server/MySQL**.
+* **Procesamiento de Datos y APIs (Python/Angular):** Implementé **servicios backend Python** y APIs RESTful para procesar grandes volúmenes de datos (para sector telco/operacional), interactuando con **MySQL/SQL Server**. Desarrollé el **dashboard Angular** para la visualización efectiva de resultados.
+
+---
+
+#### **¿Listo para Impulsar tu Proyecto?**
+
+Si buscas un desarrollador comprometido con la excelencia técnica para construir tu próxima solución de software, conectemos.
 
 * **Email:** [Danidiaz0799@gmail.com](mailto:Danidiaz0799@gmail.com)
 * **LinkedIn:** [Perfil Profesional](https://www.linkedin.com/in/steven-diaz-salamanca-7b45b8241/)
