@@ -1,4 +1,4 @@
-### **Steven Díaz Salamanca | Ingeniero de Software | Experto en Soluciones .NET, Python y Angular**
+### **Steven Díaz Salamanca | Desarrollador de Software | Experto en Soluciones .NET, Python y Angular**
 
 Con formación en Electrónica Industrial y como Desarrollador de Software, me dedico a diseñar y construir **soluciones robustas y eficientes**, con un enfoque principal en el desarrollo backend con **.NET (C#) y Python**, y frontend con **Angular**. He tenido la oportunidad de desarrollar aplicaciones para clientes en sectores clave como **telecomunicaciones, seguros y automotriz**. Mi objetivo es traducir requerimientos complejos en sistemas efectivos, combinando backends potentes con interfaces de usuario interactivas y de alto rendimiento.
 
